@@ -6,21 +6,4 @@
 5.git rm --cached text.txt
 6.git commmit - m "Status"
 8.git config --global user.email "GITHUB EMAILID"
-7.git config --global user.name "GITHUB USERNAME"
-git add filename OR git add .
-9.git log //to see loging info
-10.git stash
-11.git stash apply stash@
-12. git remote add orgin https://github.com/Mohan15/fruit.git
-13. git remote -v	//to view my remote url 
-14.git push orgin master
-15.git checkout -b "hash code from "
-19.git checkout master
-16.git pull orgin master
-17.git commit -am "comments"
-18. git branch
-
-
-git config --global http.sslverify "false" this is used when we have a problem with accessing the push origin command
-
 
