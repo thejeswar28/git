@@ -1,6 +1,7 @@
 1.change to your specified folder
  ls, cd filename or 
 2.git init
+3.git status
 4.
 5.git rm --cached text.txt
 6.git commmit - m "Status"
